@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TPRMI.iml" filepath="$PROJECT_DIR$/TPRMI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP_RMI_Client/TP_RMI_Client.iml" filepath="$PROJECT_DIR$/TP_RMI_Client/TP_RMI_Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP_RMI_Server/TP_RMI_Server.iml" filepath="$PROJECT_DIR$/TP_RMI_Server/TP_RMI_Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+    </modules>
+  </component>
+</project>
