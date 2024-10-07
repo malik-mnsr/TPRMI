@@ -1,13 +1,13 @@
 # Contenu
 Ce projet contient :
 
-    3 Package : 
+    3 Module : 
     
-    un package TP_RMI_RMI pour le client.
+    un module TP_RMI_RMI pour le client.
     
-    Un package TP_RMI_CLIENT pour le client. 
+    Un module TP_RMI_CLIENT pour le client. 
     
-    Un package TP_RMI contenant les classes communes au deux projets.
+    Un module TP_RMI contenant les classes communes au deux projets.
     
     Un fichier policy pour la sécurisation de l'accès. 
 
